@@ -1,0 +1,5 @@
+Screenshot 2026-03-29 205631.png
+I practised begginer problem of python and problem solving on hackerank and tested My knowledge on that
+
+i also created google form which contain basic question related to digital literacy that can be used to test knowledge
+google form - https://docs.google.com/forms/d/e/1FAIpQLSdku7lvfoMNO3HOgW6Z2kDrDAn6kve-7MKWiR0rD-6OhSbJNQ/viewform?usp=header
