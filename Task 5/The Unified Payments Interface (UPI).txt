@@ -1,0 +1,24 @@
+The Unified Payments Interface (UPI) has revolutionized transactions in India, but its success has also attracted sophisticated cybercriminals. In 2024–25 alone, over 1.3 million UPI fraud cases were reported, involving losses exceeding ₹1,000 crore.
+
+Case Study: The "Collect Request" Scam
+This crime involves social engineering where a fraudster tricks a victim into authorizing a payment under the guise of receiving one.
+
+Step-by-Step Execution:
+
+The Hook: A scammer contacts a victim—often someone selling an item on a marketplace like OLX—claiming they want to pay an "advance" or "full price" immediately.
+
+The Deception: The fraudster sends a "Collect Request" via a UPI app (like GPay or PhonePe). They tell the victim, "I’ve sent the money; just click 'Approve' and enter your PIN to receive it."
+
+The Theft: The victim, unaware that a PIN is only required to send money, enters their code.
+
+The Exit: Money is instantly debited from the victim's account and moved through multiple "mule accounts" to make it untraceable.
+
+Target Profile
+Fraudsters typically target small-scale sellers, senior citizens less familiar with digital nuances, and small merchants. However, 2025 data shows that even tech-savvy youth are falling for "refund" or "KYC update" lures.
+
+Consequences
+Financial Loss: Average individual losses range from ₹12,000 to ₹50,000, though some sophisticated "SIM swap" variants result in lakhs being siphoned.
+
+Low Recovery: Only about 6% of funds are successfully recovered due to the "instant" nature of UPI.
+
+Psychological Impact: Victims often face significant stress and a loss of trust in digital banking.
